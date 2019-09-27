@@ -1,1 +1,8 @@
-/target/
+*/.git/*
+*/target/*
+.classpath
+.settins/
+.project
+.git
+.svn
+_svn
