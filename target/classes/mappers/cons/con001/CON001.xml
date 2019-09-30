@@ -4,7 +4,7 @@
 	"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 
 <mapper namespace="con001">
-	<select id="select" resultType="hash">
+	<select id="iqryBasicCon001" resultType="hash">
 	SELECT 'CONNECT' 	AS NAME
 	     , 35			AS AGE
 	     , 181.6		AS TALL 
