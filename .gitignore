@@ -1,7 +1,7 @@
 */.git/*
 */target/*
 .classpath
-.settins/
+.settins
 .project
 .git
 .svn
